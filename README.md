@@ -78,5 +78,5 @@
 
 ## Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-hyeonjun0899-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hyeonjun0899)
+[![GitHub](https://img.shields.io/badge/GitHub-hjun813-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hjun813)
 [![Gmail](https://img.shields.io/badge/Gmail-hyeonjun0899@gmail.com-dd4e41?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyeonjun0899@gmail.com)
